@@ -1,8 +1,10 @@
 # demo_launcher
 A simple GTK+ based program runner
 
+Hit a button to run a program.
+
 ## Ports
-Debian 9 and ubuntu 16.04
+Debian 9 and ubuntu 20.04
 
 ## Prerequisites
 
