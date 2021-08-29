@@ -1,5 +1,7 @@
 # This is a GNU make file that uses GNU make extensions.
 
+PREFIX ?= /usr/local/encap/demo_launcher
+
 INSTALL_DIR = $(PREFIX)/bin
 
 demo_launcher_SOURCES := demo_launcher.c
